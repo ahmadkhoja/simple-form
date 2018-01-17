@@ -1,0 +1,27 @@
+.main{
+    padding: 30px;
+    margin: 30px;
+    border: dotted 5px red;
+    width: 30%;
+}
+
+input{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: #aa2222;
+    outline: none;
+    text-align: center;
+    color: rgb(43, 255, 0);
+}
+.buttonStyle{
+    width: 120px;
+    background-color: rgba(20, 90, 180, 0.8);
+    border: none;
+    border-radius: 20px;
+    outline: none;
+}
+.buttonStyle:hover{
+    background-color: rgba(20, 20, 200, 0.7);
+}
